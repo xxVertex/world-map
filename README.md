@@ -20,7 +20,7 @@ A pixel art RPG-style procedural world map generator built with React + HTML5 Ca
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/world-forge.git
+git clone https://github.com/xxVertex/world-forge.git
 cd world-forge
 npm install
 npm start
